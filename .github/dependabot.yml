@@ -18,6 +18,13 @@ updates:
     directory: "/"
     schedule:
       interval: weekly
+    groups:
+      vite:
+        patterns: 
+        - "vite"
+        - "@vitejs/*"
+        - "vitest"
+        - "@vitest/*"
 
   # devcontainers
   - package-ecosystem: "devcontainers"
