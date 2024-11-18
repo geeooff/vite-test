@@ -14,7 +14,7 @@
   "devDependencies": {
     "@types/jquery": "^3.5.32",
     "@types/node": "^22.9.0",
-    "@vitest/coverage-v8": "^2.1.4",
+    "@vitest/coverage-v8": "^2.1.5",
     "@vitest/ui": "^2.0.2",
     "eslint": "^8.57.1",
     "happy-dom": "^15.11.1",
