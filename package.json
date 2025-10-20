@@ -19,7 +19,7 @@
     "eslint": "^9.35.0",
     "happy-dom": "^17.6.3",
     "typescript": "^5.9.3",
-    "typescript-eslint": "^8.46.1",
+    "typescript-eslint": "^8.46.2",
     "vite": "^6.3.5",
     "vitest": "^3.0.5"
   },
