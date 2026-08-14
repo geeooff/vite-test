@@ -1,4 +1,4 @@
-/// <reference types="vitest" />
+/// <reference types="vitest/config" />
 import { defineConfig } from 'vite';
 import { resolve } from 'path';
 
@@ -6,8 +6,8 @@ export default defineConfig({
     build: {
         rollupOptions: {
             input: {
-                index: resolve(__dirname, 'index.html'),
-                uiOther: resolve(__dirname, 'ui/other.html')
+                index: resolve(import.meta.dirname, 'index.html'),
+                uiOther: resolve(import.meta.dirname, 'ui/other.html')
             }
         },
         outDir: 'dist',
