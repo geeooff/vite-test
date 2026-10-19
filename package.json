@@ -18,7 +18,7 @@
     "@vitest/coverage-v8": "^5.0.5",
     "@vitest/ui": "^5.0.0",
     "eslint": "^10.13.0",
-    "happy-dom": "^20.14.6",
+    "happy-dom": "^21.0.3",
     "typescript": "^6.0.3",
     "typescript-eslint": "^8.71.2",
     "vite": "^8.3.4",
