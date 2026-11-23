@@ -25,7 +25,7 @@
     "vitest": "^5.0.0"
   },
   "dependencies": {
-    "jquery": "^4.0.0"
+    "jquery": "^4.1.0"
   },
   "overrides": {
     "minimatch": "^11.0.1"
